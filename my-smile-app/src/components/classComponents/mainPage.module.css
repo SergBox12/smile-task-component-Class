@@ -1,0 +1,17 @@
+.smilesContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.smilesList {
+    display: flex;
+}
+.smile {
+    list-style-type: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.btnSmile {
+    margin: 5px;
+}
